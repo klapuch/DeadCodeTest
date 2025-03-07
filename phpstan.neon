@@ -1,0 +1,5 @@
+includes:
+	- %rootDir%/../../../vendor/shipmonk/dead-code-detector/rules.neon
+
+parameters:
+	level: max
